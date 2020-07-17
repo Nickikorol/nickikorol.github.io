@@ -1,7 +1,7 @@
 ///---FIBONACCI--///
 
 function generateFibonacciSequence(n){
-    if (n === 0 || !Number.isInteger(n)) return null;
+    if (n === 0 || return null;
     if (n === 1) return [1];
   
     var fibo = [1, 1];
